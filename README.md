@@ -20,8 +20,8 @@ This script automates a computational chemistry workflow starting from SMILES:
 
 **Author(s):**
 
-- [Weidong Cao, Pinwu Liu/Xi'an Jiaotong University]
-- [wildon0816@163.com]
+- Weidong Cao, Pinwu Liu/Xi'an Jiaotong University
+- wildon0816@163.com
 
 **Date:**
 
